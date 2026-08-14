@@ -39,3 +39,17 @@ flowchart LR
 |CSS|APIs       |
 |Javascript|    |   
 
+----
+<br>
+
+### Protocolos 
+- **HTTP**(Hypertext Transfer Protocol) é usado para careggar pasginas web e pequeno arquivos rapidamente, porta 80;
+
+- **FTP**(File Transfer Protocol) é a ideal para transferir grandes volumes de dados/arqivos entre servidores, usado portas 20/21
+
+---
+
+Framework
+
+
+Git e Github
