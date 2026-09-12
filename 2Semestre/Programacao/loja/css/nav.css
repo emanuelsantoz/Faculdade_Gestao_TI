@@ -1,0 +1,26 @@
+ nav {
+     background-color: #333;
+     padding: 10px;
+ }
+
+ nav ul {
+     list-style: none;
+     margin: 0;
+     padding: 0;
+     display: flex;
+ }
+
+ nav li {
+     margin-right: 20px;
+ }
+
+ nav a {
+     /* Menu de navegação */
+     color: white;
+     text-decoration: none;
+     font-weight: bold;
+ }
+
+ nav a:hover {
+     text-decoration: underline;
+ }

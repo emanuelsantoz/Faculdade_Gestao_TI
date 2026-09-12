@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+    min-width: 100vw;
+    min-height: 100vh;
+
+    font-family: 'Courier New', Courier, monospace;
+    padding: 3rem;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+
+
+header {
+    background-color: #ccc;
+    padding: 2%;
+    border-bottom: 2px solid #999;
+    border-radius: 2%;
+}
+
+header h1 {
+    text-align: center;
+    text-shadow: 1px 1px 2px #eef;
+    text-transform: uppercase;
+}
+
+main {
+    padding: 2%;
+    background-color: burlywood;
+    border: 1px solide rebeccapurple;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px black;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    padding: 2%;
+    background: #cce;
+    margin: 0 auto;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: black
+}
